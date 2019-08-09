@@ -56,7 +56,7 @@
   },
   "devDependencies": {
     "browserify": "^13.1.0",
-    "browserify-derequire": "^0.9.4",
+    "browserify-derequire": "^1.0.1",
     "browserify-istanbul": "^2.0.0",
     "budo": "^9.2.0",
     "chai": "^3.5.0",
